@@ -34,8 +34,17 @@ npm run dev
 php artisan serve
 ```
 
-##Overview
-Tampilan Web POS
+## Overview
+### Tampilan Web POS
+![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/cart.png)
+![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/dashboard.png)
+![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/login.png)
+![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/order.png)
+![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/pembelian.png)
+![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/product.png)
+![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png)
+![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/signout.png)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
