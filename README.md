@@ -36,14 +36,29 @@ php artisan serve
 
 ## Overview
 ### Tampilan Web POS
+
+#### Welcome Page
+![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png|width=100)
+
 #### Login Page
-![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/cart.png)
-![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/dashboard.png)
-![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/login.png)
+![login_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/login.png)
+
+#### Dashboard Page
+![dashboard_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/dashboard.png)
+
+#### Cart Page
+![cart_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/cart.png)
+
+#### Pembelian Page
+![pembelian_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/pembelian.png)
+
+#### Order Page
 ![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/order.png)
-![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/pembelian.png)
+
+#### Product Page
 ![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/product.png)
-![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png)
+
+#### Sign Out Button
 ![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/signout.png)
 
 ## License
