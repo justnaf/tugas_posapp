@@ -39,28 +39,27 @@ php artisan serve
 
 #### Welcome Page
 <img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png" width="500px">
-![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png = 100x)
 
 #### Login Page
-![login_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/login.png)
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/login.png" width="500px">
 
 #### Dashboard Page
-![dashboard_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/dashboard.png)
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/dashboard.png" width="500px">
 
 #### Cart Page
-![cart_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/cart.png)
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/cart.png" width="500px">
 
 #### Pembelian Page
-![pembelian_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/pembelian.png)
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/pembelian.png" width="500px">
 
 #### Order Page
-![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/order.png)
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/order.png" width="500px">
 
 #### Product Page
-![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/product.png)
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/product.png" width="500px">
 
 #### Sign Out Button
-![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/signout.png)
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/signout.png" width="500px">
 
 ## License
 
