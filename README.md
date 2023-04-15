@@ -14,7 +14,7 @@ This Laravel Project Made For Tugas POS APP Web Programming Course 1 Universitas
 ## How To Use
 1. First step Clonning Git
 ```
-git clone https://github.com/justnaf/kurirmu-laravel.git
+git clone https://github.com/justnaf/tugas_posapp.git
 ```
 2. Composer And NPM Install
 ```
@@ -25,8 +25,17 @@ npm install
 4. run this
 ```
 php artisan migrate
+php artisan db:seed
 php artisan key:generate
 ```
+5. and for running the web
+```
+npm run dev
+php artisan serve
+```
+
+##Overview
+Tampilan Web POS
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
