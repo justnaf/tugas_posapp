@@ -38,6 +38,7 @@ php artisan serve
 ### Tampilan Web POS
 
 #### Welcome Page
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png" width="60">
 ![welcome_page](https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png = 100x)
 
 #### Login Page
