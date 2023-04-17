@@ -8,8 +8,8 @@
 </p>
 
 ## About This Laravel Project
-
-This Laravel Project Made For Tugas POS APP Web Programming Course 1 Universitas Muhammadiyah Magelang.Made this with love
+Still In Progress (Creating Receipt PDF)
+This Laravel Project Made For Tugas POS APP Web Programming Course 1 Universitas Muhammadiyah Magelang .Made this with love
 
 ## How To Use
 1. First step Clonning Git
@@ -34,8 +34,33 @@ npm run dev
 php artisan serve
 ```
 
-##Overview
-Tampilan Web POS
+## Overview
+### Tampilan Web POS
+
+#### Welcome Page
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/welcom.png" width="500px">
+
+#### Login Page
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/login.png" width="500px">
+
+#### Dashboard Page
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/dashboard.png" width="500px">
+
+#### Cart Page
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/cart.png" width="500px">
+
+#### Pembelian Page
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/pembelian.png" width="500px">
+
+#### Order Page
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/order.png" width="500px">
+
+#### Product Page
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/product.png" width="500px">
+
+#### Sign Out Button
+<img src="https://github.com/justnaf/tugas_posapp/blob/main/public/overview/signout.png" width="500px">
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
