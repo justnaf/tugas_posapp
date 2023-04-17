@@ -29,7 +29,9 @@
                     <td>{{$order->seller}}</td>
                 @endif
                 <td>{{$order->created_at}}</td>
-                <td><button class="btn btn-success" wire:click="receiptPDF({{$order->id}})"><i class="bi bi-pencil"></i></button></td>
+                <td>
+                    <button class="btn btn-success" wire:click="receiptPDF({{$order->id}})"><i class="bi bi-box-arrow-in-down"></i></button>
+                </td>
             </tr>
             @endforeach
             @else

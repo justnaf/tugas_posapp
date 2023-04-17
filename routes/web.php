@@ -23,6 +23,7 @@ Route::get('/dashboard', [DashHome::Class,'dashboard'])->middleware(['auth', 've
 
 Route::get('/receipt',function(){return view('receipt');});
 Route::middleware('auth')->group(function () {
+    Route::get('/receipt/{id}',[DashHome::class,'receipt']);
     Route::get('/products',function(){return view('product');});
     Route::get('/pembelian', function () { return view('pembelian');});
     Route::get('/cart',function(){return view('cart');});
