@@ -8,7 +8,6 @@
 </p>
 
 ## About This Laravel Project
-Still In Progress (Creating Receipt PDF)
 This Laravel Project Made For Tugas POS APP Web Programming Course 1 Universitas Muhammadiyah Magelang .Made this with love
 
 ## How To Use
